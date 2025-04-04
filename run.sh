@@ -17,4 +17,4 @@ npm run build
 echo "Build completed successfully!"
 
 echo "Starting application with provided environment variables..."
-npm run start
+npm start
